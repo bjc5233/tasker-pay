@@ -4,19 +4,19 @@
 		<cdate>1505292958403</cdate>
 		<name>pay</name>
 		<scenes>pay</scenes>
-		<tids>87,90,82</tids>
+		<tids>82,90,87</tids>
 	</Project>
 	<Scene sr="scenepay">
 		<cdate>1504006228201</cdate>
-		<edate>1505297379106</edate>
+		<edate>1505393108259</edate>
 		<heightLand>-1</heightLand>
-		<heightPort>800</heightPort>
+		<heightPort>840</heightPort>
 		<nme>pay</nme>
 		<widthLand>-1</widthLand>
 		<widthPort>560</widthPort>
 		<WebElement sr="elements0" ve="2">
 			<flags>4</flags>
-			<geom>0,0,560,800,0,0,696,1192</geom>
+			<geom>0,0,560,840,0,0,696,1192</geom>
 			<Str sr="arg0" ve="3">pay</Str>
 			<Int sr="arg1" val="1"/>
 			<Str sr="arg2" ve="3">%root_path/pay.html</Str>
@@ -51,7 +51,7 @@
 	</Scene>
 	<Task sr="task82">
 		<cdate>1505199858150</cdate>
-		<edate>1505297095626</edate>
+		<edate>1505378255461</edate>
 		<id>82</id>
 		<nme>pay-method</nme>
 		<pri>100</pri>
@@ -268,7 +268,7 @@
 	</Task>
 	<Task sr="task87">
 		<cdate>1505294653206</cdate>
-		<edate>1505307929330</edate>
+		<edate>1505378259633</edate>
 		<id>87</id>
 		<nme>pay</nme>
 		<pri>7</pri>
